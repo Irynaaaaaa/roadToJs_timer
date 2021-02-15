@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  align-items: center;
+}
+
+.timer-line{
+  margin-top: 10px;
+  background-color: black;
+}
+
+.timer{
+  width : 1365px;
+  height: 200px;
+  
+  background-color: rgb(150, 115, 99);
+}
